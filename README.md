@@ -1,6 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 <h1 align="center">Hi 👋, I'm Zimuzo Akanne</h1>
 <h3 align="center">A passionate frontend & Backend developer.</h3>
+
 <img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zim67&label=Profile%20views&color=0e75b6&style=flat" alt="zim67" /> </p>
